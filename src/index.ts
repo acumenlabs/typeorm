@@ -97,7 +97,7 @@ export * from "./find-options/JoinOptions";
 export * from "./find-options/OrderByCondition";
 export * from "./find-options/FindOptionsUtils";
 export * from "./logger/Logger";
-export * from "./logger/Logger/LoggerOptions";
+export * from "./logger/LoggerOptions";
 export * from "./logger/AdvancedConsoleLogger";
 export * from "./logger/SimpleConsoleLogger";
 export * from "./logger/FileLogger";
