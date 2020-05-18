@@ -2,7 +2,7 @@
     "version": "2.1.1",
     "compilerOptions": {
         "lib": ["es5", "es6"],
-        "outDir": "lib/",
+        "outDir": "build/compiled",
         "target": "es2018",
         "module": "commonjs",
         "moduleResolution": "node",
