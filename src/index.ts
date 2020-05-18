@@ -128,6 +128,7 @@ export {ConnectionManager} from "./connection/ConnectionManager";
 export {ConnectionOptions} from "./connection/ConnectionOptions";
 export {Driver} from "./driver/Driver";
 export {QueryBuilder} from "./query-builder/QueryBuilder";
+export {QueryDeepPartialEntity} from "./query-builder/QueryPartialEntity";
 export {SelectQueryBuilder} from "./query-builder/SelectQueryBuilder";
 export {DeleteQueryBuilder} from "./query-builder/DeleteQueryBuilder";
 export {InsertQueryBuilder} from "./query-builder/InsertQueryBuilder";
